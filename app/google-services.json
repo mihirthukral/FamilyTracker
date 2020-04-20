@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "718090888935",
+    "firebase_url": "https://family-tracker-7cbd9.firebaseio.com",
+    "project_id": "family-tracker-7cbd9",
+    "storage_bucket": "family-tracker-7cbd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718090888935:android:25143cfb5c6be5b231e442",
+        "android_client_info": {
+          "package_name": "com.mihir.familytracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718090888935-ausofdt9t6ojldj0kr18pbi2theod7is.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mihir.familytracker",
+            "certificate_hash": "14019a23b20280ebfd39a9cce8ae4a6f789f6a76"
+          }
+        },
+        {
+          "client_id": "718090888935-51726i26ssaqa2ncj82cfjmrm02r2sjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw6f5HK8GzemCc5rZIk917QgsGM7ilriA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718090888935-51726i26ssaqa2ncj82cfjmrm02r2sjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
